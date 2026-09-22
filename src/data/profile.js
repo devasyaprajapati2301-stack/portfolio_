@@ -12,7 +12,7 @@ export const profile = {
     "I build full-stack applications, explore data and machine learning, and continuously improve my problem-solving skills through projects and real-world development.",
   about:
     "I'm pursuing a B.Tech in Computer Science & Engineering, and I learn primarily by building — shipping projects and experimenting with new tools across the stack. My work spans frontend and backend development, databases, data science, machine learning, and algorithms, with the goal of becoming a well-rounded Software Engineer and AI/ML Engineer.",
-  email: "devasyaprajapti2301@gmail.com",
+  email: "devasyaprajapati2301@gmail.com",
   resumeUrl: "/Resume_.pdf", // PLACEHOLDER: link to your hosted resume PDF
   location: "India", // PLACEHOLDER
 };

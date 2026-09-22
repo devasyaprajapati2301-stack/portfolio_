@@ -34,7 +34,7 @@ export const projects = [
       "Shopping cart & checkout experience",
       "Backend APIs with database integration",
     ],
-    github: "#", // PLACEHOLDER
+    github: "", // PLACEHOLDER
     demo: "",
   },
   {
@@ -52,8 +52,8 @@ export const projects = [
       "Time complexity callouts per algorithm",
       "Adjustable array size & speed",
     ],
-    github: "#", // PLACEHOLDER
-    demo: "",
+    github: "https://github.com/devasyaprajapati2301-stack/dsa_project.git", // PLACEHOLDER
+    demo: "https://sorting-algo-dsa.vercel.app/",
   },
   {
     id: "ds-ml-projects",

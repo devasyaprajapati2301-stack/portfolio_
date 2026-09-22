@@ -13,8 +13,15 @@ export const certifications = [
     name: "Deloitte Australia - Data Analytics Job Simulation", // EDIT ME with exact course title
     organization: "Forage", // EDIT ME if different
     skills: ["Data Analystics","Tableau","Excel"],
-    year: "2022", // EDIT ME
+    year: "2026", // EDIT ME
     credentialUrl: "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a3a673687e4d8e1d78d4400_1787154560562_completion_certificate.pdf",
+  },
+  {
+    name: "Oasis Infobyte - Data Science", // EDIT ME with exact course title
+    organization: "Oasis Infobyte", // EDIT ME if different
+    skills: ["Data Science","Analyzing Data ","Machine learning","Python"],
+    year: "2026", // EDIT ME
+    credentialUrl: "/Oasis_infobyte .pdf",
   },
   // {
   //   name: "",
