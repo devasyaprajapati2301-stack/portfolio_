@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev — Personal Portfolio
 
 A dark, modern, interactive portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
@@ -53,3 +54,7 @@ src/
 - The GitHub section fetches **real, live data** from the public GitHub API once you set `GITHUB_USERNAME` — nothing is faked. If the username is still a placeholder, it shows an honest message instead of fake stats.
 - The contact form opens the visitor's email client with a pre-filled message (no backend required). If you'd rather wire it to a real backend or a service like Formspree, swap the `handleSubmit` function in `src/sections/Contact.jsx`.
 - Colors, fonts, and spacing tokens are defined in `tailwind.config.js` and `src/index.css` if you want to adjust the palette.
+=======
+# PORTFOILIO
+Personal portfolio showcasing my journey as a CS student building toward Software Engineering &amp; AI/ML — full-stack projects, ML experiments, and DSA work.
+>>>>>>> 69061de1e022f023fc928c2547af5f07037e6dec
